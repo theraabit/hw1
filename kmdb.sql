@@ -104,7 +104,6 @@ CREATE TABLE movies (
   mpaa_rating TEXT,
   director TEXT
 );
-
 CREATE TABLE top_cast (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   title TEXT,
